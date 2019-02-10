@@ -1,4 +1,8 @@
 import os
+from setup import setup
+from botomatic.botomatic import os
+from setup import os
+from botomatic.botomatic import os
 from setuptools import setup
 
 # Utility function to read the README file.

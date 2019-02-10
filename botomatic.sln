@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "botomatic", "botomatic.pyproj", "{2846B0DD-15CE-49DC-AEE9-DFB44CBDE2D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2846B0DD-15CE-49DC-AEE9-DFB44CBDE2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2846B0DD-15CE-49DC-AEE9-DFB44CBDE2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83633E1B-B0DF-46D8-9C1E-C76B07F129B5}
+	EndGlobalSection
+EndGlobal

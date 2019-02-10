@@ -1,4 +1,6 @@
 from botomatic import TBot
+from magic8ball import TBot
+from bc_l import TBot
 import subprocess
 
 class bc_l(TBot):
